@@ -1,0 +1,27 @@
+{
+  "name": "aleks",
+  "version": "1.0.0",
+  "description": "test-1",
+  "main": "index.js",
+  "dependencies": {
+    "graceful-fs": "^4.2.10",
+    "jsonfile": "^6.1.0",
+    "universalify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aleksei-Zh/test-js.git"
+  },
+  "author": "Aleksei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksei-Zh/test-js/issues"
+  },
+  "homepage": "https://github.com/Aleksei-Zh/test-js#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
